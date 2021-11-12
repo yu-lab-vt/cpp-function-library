@@ -32,7 +32,7 @@ accept .hpp file only
 4. get p value of z score (based on Fouries decomposition)
 
 ###### functions for images processing
-1. 3D marker-based watershed (may be slower than Matlab when there is cliff)
+1. 3D marker-based watershed (may be slower than Matlab when there are lots of cliff)
 
 ###### network flow
 1. shortest path (based on dynamic programing)
